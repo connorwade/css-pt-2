@@ -1,0 +1,22 @@
+//import
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+//Breakpoints
+$mobile-breakpoint-min: 375px;
+$mobile-breakpoint-max: $mobile-breakpoint-min + 1px;
+
+//colors
+$orange: hsl(31, 77%, 52%);
+$cyan: hsl(184, 100%, 22%);
+$dark-cyan: hsl(179, 100%, 13%);
+
+$white: hsla(0, 0%, 100%, 0.75);
+$light-gray: hsl(0, 0%, 95%);
+
+$font-size: 15px;
+
+$lexend-deca: 'Lexend Deca', sans-serif;
+$big-shoulders: 'Big Shoulders Display', cursive;
+
+//styles
